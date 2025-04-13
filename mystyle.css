@@ -1,0 +1,42 @@
+body { 
+   background-color: lightblue;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+
+p {
+  text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+.table-menu {
+	border: 2px solid;
+    border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 0.9em; 
+	min-width: 400px;
+}
+

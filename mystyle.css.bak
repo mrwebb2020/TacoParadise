@@ -1,0 +1,7 @@
+body { 
+   background-color: lightblue;
+}
+
+_top {
+	text-align: center;
+}
